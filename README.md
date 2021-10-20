@@ -1,5 +1,5 @@
 - @thejourneyville - 
-<i>currently going through <a href"https://www.theodinproject.com/"></a></i>
+<i>currently going through <a href"https://www.theodinproject.com/">The Odin Project</a></i>
 
 Hello, world! I'm Ben and this is my Github space! Have fun!
 
