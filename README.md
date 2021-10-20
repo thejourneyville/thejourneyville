@@ -1,4 +1,5 @@
-- @thejourneyville - to be updated!
+- @thejourneyville - 
+<i>currently going through <a href"https://www.theodinproject.com/"></a></i>
 
 Hello, world! I'm Ben and this is my Github space! Have fun!
 
