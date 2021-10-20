@@ -1,7 +1,11 @@
-- @thejourneyville - 
-<i>currently going through <a href"https://www.theodinproject.com/">The Odin Project</a></i>
+- @thejourneyville
 
 Hello, world! I'm Ben and this is my Github space! Have fun!
+
+currently going through The Odin Project:<br>
+https://www.theodinproject.com/
+
+
 
 <!---
 thejourneyville/thejourneyville is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
