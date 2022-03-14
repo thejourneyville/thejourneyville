@@ -2,7 +2,7 @@
 
 Hello, world! I'm Benny, welcome back to my Github!
 
-I'm currently enrolled in the fullstack program at <a href="https://www.nucamp.co/" target="_blank">Nucamp</a>!
+I'm currently enrolled in the fullstack program at <a href="https://www.nucamp.co/" target="_blank" rel="noopener noreferrer">Nucamp</a>!
 
 I strive to become a web developer, leaning on front end design although I do find business and data logic intriging!
 I'll continue to build my portfolio, so keep an eye on me because I want to bring value to whatever I do!
